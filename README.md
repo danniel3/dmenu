@@ -1,4 +1,6 @@
-# Luke's dmenu
+# My build of suckless's dmenu
+
+Based on Luke Smith's dmenu
 
 Extra stuff added to vanilla dmenu:
 
